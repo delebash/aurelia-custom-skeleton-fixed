@@ -4,4 +4,3 @@ node_modules
 /scripts/app.bundle.js
 /scripts/app.bundle.js.map
 /dist/
-/scripts/
