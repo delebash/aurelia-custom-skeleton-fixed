@@ -3,3 +3,4 @@ node_modules
 .DS_STORE
 /scripts/app.bundle.js
 /scripts/app.bundle.js.map
+/dist/
